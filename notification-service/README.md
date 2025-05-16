@@ -242,3 +242,7 @@ Servis, Keycloak ile entegre edilmiştir ve aşağıdaki rolleri destekler:
 1. Yeni kanal için servis sınıfı oluşturun
 2. `NotificationService`'e yeni kanal entegrasyonu ekleyin
 3. `NotificationPreference` modeline yeni kanal tercihi ekleyin
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın. 
